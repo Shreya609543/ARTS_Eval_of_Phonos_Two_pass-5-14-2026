@@ -4,15 +4,15 @@ title: ARTS Audio Share
 
 # ARTS Audio Share
 
-Browse and play sample audio grouped by category. This page shows only the requested categories and intentionally skips any audio ending in `_file.wav`.
+Following are the audio files discussed in the `ARTS_Eval_of_Phonos_Two_pass-5-14-2026_1.pptx` presentation. Using the second pass, we are trying to achieve accent transformation because a direct transformation model is not available.
 
-## Audio categories
+<!-- ## Audio categories
 
 - **Source Audio**: no suffix or `_gained`
 - **First Pass North American**: `_NA`
 - **2nd Pass British**: `british_phonos`
 - **2nd Pass Hindi**: `indian_phonos`
-- **2nd Pass Spanish**: `spanish_phonos`
+- **2nd Pass Spanish**: `spanish_phonos` -->
 
 ---
 
@@ -46,7 +46,6 @@ Browse and play sample audio grouped by category. This page shows only the reque
 | Source Audio | <audio controls src="data/Hindi/arts_bc503803b92a_a/arts_bc503803b92a_a.wav"></audio> |
 | First Pass North American | <audio controls src="data/Hindi/arts_bc503803b92a_a/arts_bc503803b92a_a_Hindi_NA.wav"></audio> |
 | 2nd Pass British | <audio controls src="data/Hindi/arts_bc503803b92a_a/arts_bc503803b92a_a_Hindi_NA_british_phonos.wav"></audio> |
-| 2nd Pass Hindi | <audio controls src="data/Hindi/arts_bc503803b92a_a/arts_bc503803b92a_a_Hindi_NA_indian_phonos.wav"></audio> |
 | 2nd Pass Spanish | <audio controls src="data/Hindi/arts_bc503803b92a_a/arts_bc503803b92a_a_Hindi_NA_spanish_phonos.wav"></audio> |
 
 ### arts_ce4de017161b_a
@@ -56,7 +55,6 @@ Browse and play sample audio grouped by category. This page shows only the reque
 | Source Audio | <audio controls src="data/Hindi/arts_ce4de017161b_a/arts_ce4de017161b_a_gained.wav"></audio> |
 | First Pass North American | <audio controls src="data/Hindi/arts_ce4de017161b_a/arts_ce4de017161b_a_Hindi_NA.wav"></audio> |
 | 2nd Pass British | <audio controls src="data/Hindi/arts_ce4de017161b_a/arts_ce4de017161b_a_Hindi_NA_british_phonos.wav"></audio> |
-| 2nd Pass Hindi | <audio controls src="data/Hindi/arts_ce4de017161b_a/arts_ce4de017161b_a_Hindi_NA_indian_phonos.wav"></audio> |
 | 2nd Pass Spanish | <audio controls src="data/Hindi/arts_ce4de017161b_a/arts_ce4de017161b_a_Hindi_NA_spanish_phonos.wav"></audio> |
 
 
