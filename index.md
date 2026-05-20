@@ -1,3 +1,7 @@
+---
+title: ARTS Audio Share
+---
+
 # ARTS Audio Share
 
 Browse and play the audio samples stored under `data`. Each section corresponds to one language folder.
